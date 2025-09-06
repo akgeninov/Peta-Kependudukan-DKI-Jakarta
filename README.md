@@ -51,4 +51,5 @@ Proyek ini menggunakan gabungan dari dua dataset terbuka:
 4. Mendesain antarmuka menggunakan HTML dan CSS
 
 ## Preview
-![Tampilan Aplikasi](./Peta Kependudukan DKI Jakarta.png)
+![Peta Kependudukan DKI Jakarta](./Peta%20Kependudukan%20DKI%20Jakarta.png)
+
