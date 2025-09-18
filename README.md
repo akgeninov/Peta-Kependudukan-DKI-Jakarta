@@ -1,8 +1,8 @@
 # Peta Kependudukan DKI Jakarta
 
 ## Deskripsi Proyek
-**Peta Kependudukan DKI Jakarta** adalah aplikasi web interaktif yang dikembangkan dalam mata kuliah **Sistem Informasi Spasial**.  
-Aplikasi ini memvisualisasikan data kependudukan DKI Jakarta secara demografis berdasarkan wilayah administrasi (kelurahan), memungkinkan pengguna untuk menjelajahi informasi seperti jumlah penduduk menurut kelompok usia & jenis kelamin, luas wilayah, dan kepadatan penduduk.  
+**Peta Kependudukan DKI Jakarta** adalah project kelompok untuk mata kuliah **Sistem Informasi Spasial**.
+Aplikasi ini berupa Web-GIS yang menampilkan data kependudukan DKI Jakarta secara demografis berdasarkan wilayah administrasi (kelurahan).
 
 Peta dasar dibuat menggunakan **QGIS**, lalu diintegrasikan ke dalam aplikasi berbasis web dengan **Leaflet.js** untuk interaktivitas.
 
