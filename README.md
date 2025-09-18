@@ -1,5 +1,6 @@
 # Peta Kependudukan DKI Jakarta
 
+**[Live Demo]([https://username.github.io/peta-kependudukan-jakarta/](https://akgeninov.github.io/Peta-Kependudukan-DKI-Jakarta/])**
 ## Deskripsi Proyek
 **Peta Kependudukan DKI Jakarta** adalah project kelompok untuk mata kuliah **Sistem Informasi Spasial**.
 Aplikasi ini berupa Web-GIS yang menampilkan data kependudukan DKI Jakarta secara demografis berdasarkan wilayah administrasi (kelurahan).
